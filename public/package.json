@@ -12,7 +12,7 @@
     "start": "gulp dev"
   },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "browser-sync": "^2.18.13",
     "font-awesome": "^4.6.3",
     "gulp": "^3.9.1",
